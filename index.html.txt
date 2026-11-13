@@ -1,14 +1,9 @@
 <!DOCTYPE html>
-<html lang="ar" dir="rtl">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>مشروع الواجب - أحمد بازمول</title>
+    <title>My HTML Project</title>
 </head>
-<body style="font-family: Arial; padding: 30px; background-color: #f9f9f9;">
-    <h1>بطاقة تعريف الطالب</h1>
-    <hr>
-    <p><strong>اسم الطالب:</strong> أحمد بازمول</p>
-    <p><strong>الجامعة:</strong> جامعة سيئون</p>
-    <p><strong>التخصص:</strong> أمن معلومات - المستوى الأول</p>
+<body>
+    <h1>مرحباً، هذا هو مشروع الواجب الخاص بي</h1>
 </body>
 </html>
