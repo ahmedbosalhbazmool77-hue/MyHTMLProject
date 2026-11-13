@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <title>مشروع الطالب - أحمد بازمول</title>
+</head>
+<body style="font-family: Arial, sans-serif; line-height: 1.8; padding: 30px; background-color: #f9f9f9;">
+
+    <h1>بطاقة تعريف الطالب</h1>
+    <hr>
+
+    <p><strong>الاسم الكامل:</strong> أحمد بازمول</p>
+    <p><strong>الجامعة:</strong> جامعة سيئون</p>
+    <p><strong>التخصص:</strong> أمن معلومات - المستوى الأول</p>
+    <p><strong>المادة / الواجب:</strong> إنشاء مشروع HTML ورفعه عبر Git Bash إلى GitHub</p>
+
+    <h3>نبذة عن المشروع:</h3>
+    <p>تم إنشاء هذه الصفحة وربطها بالمستودع السحابي باستخدام سطر الأوامر (Git Bash) كجزء من متطلبات الواجب الدراسي.</p>
+
+</body>
+</html>
